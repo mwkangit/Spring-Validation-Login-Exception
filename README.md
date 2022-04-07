@@ -229,19 +229,19 @@ public class ExControllerAdvice {
 
 **Project : validation**
 
-![Spring-Validation-Login-Exception1](/home/mwkang/Downloads/Spring-Validation-Login-Exception1.gif)
+![Spring-Validation-Login-Exception1](https://user-images.githubusercontent.com/79822924/162276264-124f93d8-99b0-44cb-8527-18150b901335.gif)
 
 
 
 **Project : login**
 
-![Spring-Validation-Login-Exception2](/home/mwkang/Downloads/Spring-Validation-Login-Exception2.gif)
+![Spring-Validation-Login-Exception2](https://user-images.githubusercontent.com/79822924/162276285-7c8e7ea2-e1a0-4d48-bb73-221758674e7a.gif)
 
 
 
 **Project : exception**
 
-![Spring-Validation-Login-Exception3](/home/mwkang/Downloads/Spring-Validation-Login-Exception3.gif)
+![Spring-Validation-Login-Exception3](https://user-images.githubusercontent.com/79822924/162276300-8fe66455-f924-4e6c-9392-5e53ce1822fd.gif)
 
 
 
@@ -251,5 +251,6 @@ public class ExControllerAdvice {
 
 ## More Explanation
 
-
-
+[Spring-validation-Note.md](https://github.com/mwkangit/Spring-Validation-Login-Exception/tree/master/validation)
+[Spring-login-Note.md](https://github.com/mwkangit/Spring-Validation-Login-Exception/blob/master/login/Spring-login-Note.md)
+[Spring-exception-Note.md](https://github.com/mwkangit/Spring-Validation-Login-Exception/blob/master/exception/Spring-exception-Note.md)
